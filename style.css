@@ -99,5 +99,9 @@ li:hover {
     color: #fff;
 }
 
+ul > li > a > img {
+    border-radius: 50%;
+}
+
 
  
