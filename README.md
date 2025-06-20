@@ -1,6 +1,6 @@
 # 🔗 Bio Link - Lucas Franco
 
-![FilmFlow Screenshot](./linkbio-png) 
+![Bio Link Screenshot](./linkbio.png) 
 
 ---
 
